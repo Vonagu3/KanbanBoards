@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706073530091",
+    "project_id": "kanban-boards-3eaf3",
+    "storage_bucket": "kanban-boards-3eaf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706073530091:android:1abac86fa9f529a0e538ae",
+        "android_client_info": {
+          "package_name": "com.example.kanbanboards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706073530091-k4crqf9feem378ng50pe5hs425ikj59v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanbanboards",
+            "certificate_hash": "ea7ec9ce8c992183df226a1e0d0c9bb7bc265155"
+          }
+        },
+        {
+          "client_id": "706073530091-76ofcs182jje9us4out8thdorerj6ot4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclJsjiFfE36l1z6yYTJbyn8W-O31NC_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706073530091-5s1qvg36mnifra6psgn3hdg6jbbeee95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
