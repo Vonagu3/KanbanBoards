@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">KanbanBoards</string>
     <string name="your_web_client_id">706073530091-5s1qvg36mnifra6psgn3hdg6jbbeee95.apps.googleusercontent.com</string>
+    <string name="welcome">Welcome</string>
+    <string name="my_email">My name:\n%s\n\nMy email:\n%s</string>
+    <string name="back">back</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">sign out</string>
 </resources>
